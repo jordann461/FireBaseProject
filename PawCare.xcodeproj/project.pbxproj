@@ -19,7 +19,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		4990D9592FB5B5AF00D47884 /* Exceptions for "FireBaseProject" folder in "FireBaseProject" target */ = {
+		4990D9592FB5B5AF00D47884 /* Exceptions for "PawCare" folder in "FireBaseProject" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -29,12 +29,12 @@
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		4990D9422FB5B4E200D47884 /* FireBaseProject */ = {
+		4990D9422FB5B4E200D47884 /* PawCare */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				4990D9592FB5B5AF00D47884 /* Exceptions for "FireBaseProject" folder in "FireBaseProject" target */,
+				4990D9592FB5B5AF00D47884 /* Exceptions for "PawCare" folder in "FireBaseProject" target */,
 			);
-			path = FireBaseProject;
+			path = PawCare;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -58,7 +58,7 @@
 		4990D9372FB5B4E200D47884 = {
 			isa = PBXGroup;
 			children = (
-				4990D9422FB5B4E200D47884 /* FireBaseProject */,
+				4990D9422FB5B4E200D47884 /* PawCare */,
 				49C8FA702FD840A100EF062D /* Frameworks */,
 				4990D9412FB5B4E200D47884 /* Products */,
 			);
@@ -95,7 +95,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				4990D9422FB5B4E200D47884 /* FireBaseProject */,
+				4990D9422FB5B4E200D47884 /* PawCare */,
 			);
 			name = FireBaseProject;
 			packageProductDependencies = (
@@ -124,7 +124,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 4990D93B2FB5B4E200D47884 /* Build configuration list for PBXProject "FireBaseProject" */;
+			buildConfigurationList = 4990D93B2FB5B4E200D47884 /* Build configuration list for PBXProject "PawCare" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -354,7 +354,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		4990D93B2FB5B4E200D47884 /* Build configuration list for PBXProject "FireBaseProject" */ = {
+		4990D93B2FB5B4E200D47884 /* Build configuration list for PBXProject "PawCare" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				4990D9562FB5B4E400D47884 /* Debug */,
